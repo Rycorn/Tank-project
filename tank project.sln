@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tank project", "tank project.csproj", "{E4343286-0A97-2A37-CDCB-D2D00B99F2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tank project.Editor", "tank project.Editor.csproj", "{7DF6AAC7-597B-9510-3F2B-667B17A522B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4343286-0A97-2A37-CDCB-D2D00B99F2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4343286-0A97-2A37-CDCB-D2D00B99F2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4343286-0A97-2A37-CDCB-D2D00B99F2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4343286-0A97-2A37-CDCB-D2D00B99F2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DF6AAC7-597B-9510-3F2B-667B17A522B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF6AAC7-597B-9510-3F2B-667B17A522B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF6AAC7-597B-9510-3F2B-667B17A522B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF6AAC7-597B-9510-3F2B-667B17A522B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
